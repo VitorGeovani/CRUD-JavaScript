@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "GeForce NVIDIA GTX 1650S 4GB",
+      "price": "R$ 2800,00",
+      "description": "Placa de vídeo de alto desempenho"
+    },
+    {
+      "id": 2,
+      "name": "Monitor Acer KG241Q 144Hz (Overclock - 165Hz)",
+      "price": "R$ 1500,00",
+      "description": "Monitor de alto desempenho"
+    },
+    {
+      "name": "teste1",
+      "price": "1000",
+      "description": "Placa de vídeo de alto desempenho",
+      "id": 3
+    },
+    {
+      "name": "teste2",
+      "price": "1000",
+      "description": "aaaa",
+      "id": 4
+    },
+    {
+      "name": "test3.1",
+      "price": "R$ 1.000.000",
+      "description": "Estou milionário",
+      "id": 5
+    }
+  ]
+}
