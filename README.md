@@ -30,7 +30,7 @@
 
 ## :information_source: **Para criar o seu próprio CRUD usando Java Script, acesse o vídeo do canal toofani coder (https://www.youtube.com/watch?v=eJyZ7k6lWfE&ab_channel=toofanicoder)**
 
-## :information_source: **Acesse nossa demo no Netlify --> (https://crud-grupo8.netlify.app/)**
+## :information_source: **Acesse nossa demo no Netlify --> (https://crud-js-grupo8.netlify.app/)**
 
 ## :information_source: **Comandos importantes:**
 ### 📍 **Instala as dependências**
@@ -38,3 +38,9 @@
 
 ### 📍 **Roda a página**
 **npm start**
+
+## **Demo do nosso projeto:**
+
+<p align="left">
+  <img height="200" width"200" src="demo.png">
+  </p>
